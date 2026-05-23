@@ -141,15 +141,8 @@ SafeChild aims to provide parents with practical tools to guide and protect chil
 
 ## 👩‍💻 Author
 
-Esma Yilmaz
+Esma Yılmaz
 
-GitHub:
-https://github.com/esmaa2
 
-LinkedIn:
-https://www.linkedin.com/in/esma-y%C4%B1lmaz-05570937b/
----
 
-## 📄 License
 
-This project is intended for educational, portfolio, and learning purposes.
