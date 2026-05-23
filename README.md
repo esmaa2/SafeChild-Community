@@ -1,17 +1,92 @@
-# safechild
+# SafeChild Community
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+SafeChild Community is a parental control and child safety platform designed to help families create a safer digital environment for children.
 
-This project is a starting point for a Flutter application.
+The platform provides separate experiences for parents and children, allowing parents to manage child profiles, monitor activities, control features, and promote safe online behavior.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Parent Features
+
+- Parent Authentication
+- Parent Profile Management
+- Child Profile Creation
+- Child Management Dashboard
+- View Child Control Panels
+- Screen Time Management
+- Content Control Settings
+- Notifications & Activity Monitoring
+
+### Child Features
+
+- Child Login
+- Kid-Friendly Interface
+- Learning Section
+- Tasks & Rewards System
+- Profile Management
+- Safe Navigation Experience
+
+### Community & Safety
+
+- Role-Based Access
+- Parent-Child Relationships
+- Secure Authentication
+- Firebase Integration
+- Child Safety Focused Design
+
+---
+
+## Tech Stack
+
+### Frontend
+- Flutter
+- Dart
+
+### Backend & Services
+- Firebase Authentication
+- Cloud Firestore
+
+### Development Tools
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Xcode
+
+---
+
+## Project Structure
+
+```text
+lib/
+├── models/
+├── services/
+├── state/
+├── screens/
+│   ├── parent/
+│   ├── child/
+│   └── shared/
+
+---
+
+## Status
+
+🚧 Active Development
+
+SafeChild is currently under development and new features are being added continuously.
+
+Planned future improvements include:
+
+Advanced parental controls
+AI-powered content moderation
+Child activity reports
+Family safety score
+Secure community features
+
+## Author
+
+Esma Yilmaz
