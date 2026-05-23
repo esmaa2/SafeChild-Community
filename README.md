@@ -1,56 +1,65 @@
 # SafeChild Community
 
-## Overview
+A parental control and child safety platform designed to help families create a safer and healthier digital experience for children.
 
-SafeChild Community is a parental control and child safety platform designed to help families create a safer digital environment for children.
-
-The platform provides separate experiences for parents and children, allowing parents to manage child profiles, monitor activities, control features, and promote safe online behavior.
+SafeChild provides separate experiences for parents and children, allowing parents to manage child profiles, monitor activities, control digital features, and build a secure online environment.
 
 ---
 
-## Features
+## 🚧 Project Status
 
-### Parent Features
+**Work in Progress (WIP)**
+
+SafeChild is currently under active development. Core functionality has been implemented, while additional features and improvements are continuously being added.
+
+---
+
+## ✨ Features
+
+### Parent Experience
 
 - Parent Authentication
 - Parent Profile Management
 - Child Profile Creation
 - Child Management Dashboard
-- View Child Control Panels
-- Screen Time Management
-- Content Control Settings
-- Notifications & Activity Monitoring
+- Child Control Panels
+- View & Manage Child Accounts
+- Family Safety Monitoring
+- Notifications & Alerts
 
-### Child Features
+### Child Experience
 
 - Child Login
-- Kid-Friendly Interface
+- Kid-Friendly User Interface
 - Learning Section
 - Tasks & Rewards System
-- Profile Management
+- Child Profile Management
 - Safe Navigation Experience
 
-### Community & Safety
+### Safety Features
 
-- Role-Based Access
-- Parent-Child Relationships
+- Role-Based Access Control
+- Parent-Child Relationship Management
 - Secure Authentication
 - Firebase Integration
-- Child Safety Focused Design
+- Digital Safety Focused Design
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### Mobile Development
+
 - Flutter
 - Dart
 
-### Backend & Services
+### Backend & Cloud Services
+
 - Firebase Authentication
 - Cloud Firestore
 
 ### Development Tools
+
 - Git
 - GitHub
 - VS Code
@@ -59,7 +68,7 @@ The platform provides separate experiences for parents and children, allowing pa
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 lib/
@@ -70,23 +79,77 @@ lib/
 │   ├── parent/
 │   ├── child/
 │   └── shared/
+```
 
 ---
 
-## Status
+## 📱 Current Modules
 
-🚧 Active Development
+### Parent Module
 
-SafeChild is currently under development and new features are being added continuously.
+- Parent Login
+- Parent Registration
+- Parent Dashboard
+- My Kids Management
+- Child Control Panel
+- Profile Setup
 
-Planned future improvements include:
+### Child Module
 
-Advanced parental controls
-AI-powered content moderation
-Child activity reports
-Family safety score
-Secure community features
+- Child Login
+- Kid Home Screen
+- Learning Section
+- Tasks Section
+- Rewards Section
+- Child Profile
 
-## Author
+### Shared Module
+
+- Splash Screen
+- Welcome Screen
+- Onboarding Flow
+- Role Selection
+
+---
+
+## 🚀 Planned Features
+
+The following features are planned for future releases:
+
+- Advanced Parental Controls
+- AI-Powered Content Moderation
+- Child Activity Reports
+- Family Safety Score
+- Community Features
+- Enhanced Security Monitoring
+- Smart Recommendations
+- Screen Time Analytics
+
+---
+
+## 📸 Screenshots
+
+Screenshots will be added as development progresses.
+
+---
+
+## 🎯 Project Goal
+
+SafeChild aims to provide parents with practical tools to guide and protect children in the digital world while maintaining a positive, educational, and engaging experience for young users.
+
+---
+
+## 👩‍💻 Author
 
 Esma Yilmaz
+
+GitHub:
+https://github.com/esmaa2
+
+LinkedIn:
+https://www.linkedin.com/in/esma-y%C4%B1lmaz-05570937b/
+---
+
+## 📄 License
+
+This project is intended for educational, portfolio, and learning purposes.
